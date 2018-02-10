@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-02-10T16:37:50.876Z</updated>
+  <updated>2018-02-10T16:53:28.855Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,28 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>robotframework快速入门</title>
-    <link href="http://yoursite.com/2018/02/10/robotframework%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/"/>
-    <id>http://yoursite.com/2018/02/10/robotframework快速入门/</id>
-    <published>2018-02-10T05:14:30.000Z</published>
-    <updated>2018-02-10T16:37:50.876Z</updated>
-    
-    <content type="html"><![CDATA[<p>测试归档是否正确<br><a id="more"></a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;测试归档是否正确&lt;br&gt;
-    
-    </summary>
-    
-      <category term="tool" scheme="http://yoursite.com/categories/tool/"/>
-    
-    
-      <category term="测试标签" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95%E6%A0%87%E7%AD%BE/"/>
-    
-  </entry>
   
   <entry>
     <title>Jmeter入门</title>
@@ -54,6 +32,28 @@
     </summary>
     
       <category term="performance" scheme="http://yoursite.com/categories/performance/"/>
+    
+    
+      <category term="测试标签" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95%E6%A0%87%E7%AD%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>robotframework快速入门</title>
+    <link href="http://yoursite.com/2018/02/10/robotframework%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/"/>
+    <id>http://yoursite.com/2018/02/10/robotframework快速入门/</id>
+    <published>2018-02-10T05:14:30.000Z</published>
+    <updated>2018-02-10T16:37:50.876Z</updated>
+    
+    <content type="html"><![CDATA[<p>测试归档是否正确<br><a id="more"></a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;测试归档是否正确&lt;br&gt;
+    
+    </summary>
+    
+      <category term="tool" scheme="http://yoursite.com/categories/tool/"/>
     
     
       <category term="测试标签" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95%E6%A0%87%E7%AD%BE/"/>
