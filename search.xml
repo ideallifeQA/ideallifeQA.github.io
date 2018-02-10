@@ -38,8 +38,29 @@
     </entry>
     
     <entry>
+      <title><![CDATA[Jmeter入门]]></title>
+      <url>/2018/02/10/Jmeter%E5%85%A5%E9%97%A8/</url>
+      <content type="html"><![CDATA[<p>测试归档是否正确<br><a id="more"></a></p>
+]]></content>
+      
+        <categories>
+            
+            <category> performance </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 测试标签 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[robotframework快速入门]]></title>
-      <url>/2018/02/10/%E6%B5%8B%E8%AF%95%E5%BD%92%E6%A1%A3/</url>
+      <url>/2018/02/10/robotframework%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/</url>
       <content type="html"><![CDATA[<p>测试归档是否正确<br><a id="more"></a></p>
 ]]></content>
       
