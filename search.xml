@@ -20,8 +20,6 @@
 <li>执行以下命令即可完成一键部署。前提是你的git仓库已关联我的远程仓库<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo -g d</span><br></pre></td></tr></table></figure>
 </li>
 </ol>
-<!--more-->
-<p>这些是测试内容，如果看到请忽略</p>
 ]]></content>
       
         <categories>
