@@ -24,10 +24,16 @@
       
         <categories>
             
-            <category> 我是分类 </category>
+            <category> 帮助 </category>
             
         </categories>
         
+        
+        <tags>
+            
+            <tag> 测试标签 </tag>
+            
+        </tags>
         
     </entry>
     
